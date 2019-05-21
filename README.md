@@ -27,6 +27,7 @@
 * 01_jsIntro
 * 02_largestNumber
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 * 03_openDoor
 <<<<<<< HEAD
@@ -42,4 +43,12 @@
 =======
 * 04_objects
 >>>>>>> 7bdf8a4b4d78f2386d650eb9fbbee15fced4ab43
+<<<<<<< HEAD
 >>>>>>> 04_objects
+=======
+=======
+* 03_openDoor
+* 04_objects
+* 05_sumNumbers
+>>>>>>> 48212f5c79f2299d7abe5026d2a2f85ba77eaab2
+>>>>>>> 05_sumNumbers
