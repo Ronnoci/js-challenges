@@ -16,12 +16,14 @@
      `git push origin master`
 
 ## List of challenge branches
-01_jsIntro
+* 01_jsIntro
 * 02_largestNumber
 * 03_openDoor
 * 04_objects
 * 05_sumNumbers
 * 06_hiddenMessage
+* 07_binarySearch
 =======
 * 07_binarySearch
->>>>>>> 9c91ff051eaf75ab37633137402135cfbac1f97b
+* 08_welcome
+>>>>>>> 13a7f2bf28164db1789464c66988fac1cbc0c9c4
