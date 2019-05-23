@@ -16,39 +16,12 @@
      `git push origin master`
 
 ## List of challenge branches
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 01_jsIntro
-=======
-=======
->>>>>>> 04_objects
-* 01_jsIntro
-* 02_largestNumber
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-* 03_openDoor
-<<<<<<< HEAD
->>>>>>> 7509113c122630971b4354f4b79b038c2734cc19
-=======
-* 01_jsIntro
 * 02_largestNumber
 * 03_openDoor
 * 04_objects
 * 05_sumNumbers
 * 06_hiddenMessage
->>>>>>> 08425c5d87f223c83436d9b0bfe1297bd3e8c089
 =======
-* 04_objects
->>>>>>> 7bdf8a4b4d78f2386d650eb9fbbee15fced4ab43
-<<<<<<< HEAD
->>>>>>> 04_objects
-=======
-=======
-* 03_openDoor
-* 04_objects
-* 05_sumNumbers
->>>>>>> 48212f5c79f2299d7abe5026d2a2f85ba77eaab2
->>>>>>> 05_sumNumbers
+* 07_binarySearch
+>>>>>>> 9c91ff051eaf75ab37633137402135cfbac1f97b
