@@ -23,7 +23,12 @@
 * 05_sumNumbers
 * 06_hiddenMessage
 * 07_binarySearch
+<<<<<<< HEAD
 =======
 * 07_binarySearch
 * 08_welcome
 >>>>>>> 13a7f2bf28164db1789464c66988fac1cbc0c9c4
+=======
+* 08_welcome
+* 09_oddOrEven
+>>>>>>> aeba44338511e7f410e030d4230ba84624adc812
