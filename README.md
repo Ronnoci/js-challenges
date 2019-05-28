@@ -24,6 +24,7 @@
 * 06_hiddenMessage
 * 07_binarySearch
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 * 07_binarySearch
 * 08_welcome
@@ -32,3 +33,8 @@
 * 08_welcome
 * 09_oddOrEven
 >>>>>>> aeba44338511e7f410e030d4230ba84624adc812
+=======
+* 08_welcome
+* 09_oddOrEven
+* 10_numberPersistence
+>>>>>>> 2b34ec40960d24374eafa8a7bfbacc4fed747978
