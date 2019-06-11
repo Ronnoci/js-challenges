@@ -21,12 +21,12 @@ function persistence(num) {
     steps = 0
     array = num.toString().split('')
     if (array[0] == '-') {
-    array = array.slice(1)
+        array = array.slice(1)
     }
     while (array.length > 1) {
-    result = array.reduce(multiply);
-    array = result.toString().split('')
-    steps++;
+        result = array.reduce(multiply);
+        array = result.toString().split('')
+        steps++;
     }
     return steps       
 }
